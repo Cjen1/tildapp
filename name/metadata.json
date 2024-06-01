@@ -1,0 +1,5 @@
+{
+  "name": "NameBadge",
+  "path": "apps.nameapp.nameapp",
+  "callable": "MainClass",
+}
